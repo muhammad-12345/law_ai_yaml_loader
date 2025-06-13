@@ -1,0 +1,4 @@
+logo_url: "https://my-portfolio-new-one-bay.vercel.app/_next/image?url=%2FMY-image.jpg&w=384&q=75"
+features:
+  enable_vector_search: true
+  enable_email_draft: false
